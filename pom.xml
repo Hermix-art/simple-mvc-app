@@ -86,7 +86,7 @@
               <target>
                 <copy
                   file="/home/herman_kulik/alishev_spring/simple-mvc-app/target/simple-mvc-app.war"
-                  todir="/home/herman_kulik/tomcat/webapps"></copy>
+                  todir="/home/herman_kulik/apps/apache-tomcat-9.0.65/webapps"></copy>
               </target>
             </configuration>
             <goals>
